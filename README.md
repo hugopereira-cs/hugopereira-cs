@@ -7,6 +7,6 @@
 
 <div>
     <a href="https://github.com/hugopereira-cs">
-    <img height="200em" https://github-readme-stats.vercel.app/api?username=hugopereira-cs&show_icons=true&theme=transparent/>
-    <img height="200em" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hugopereira-cs&show_icons=true&theme=transparent">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
