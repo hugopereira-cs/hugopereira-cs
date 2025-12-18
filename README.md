@@ -1,4 +1,4 @@
-## Olá 👋
+## 👋 Olá
 
 - 🧑🏻‍💻 Eu sou Hugo Pereira
 - 💻 Desenvolvedor em formação com foco em Front-end e Ciência da Computação
