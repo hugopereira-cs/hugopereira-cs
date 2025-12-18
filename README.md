@@ -10,7 +10,7 @@
 
 <div>
   
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <a href="https://github.com/hugopereira-cs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugopereira-cs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
 
 <div>
   
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -38,7 +38,7 @@
 
 <div>
   
-## 🌐 Connect with Me
+## 🌐 Conecte-se Comigo
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.pereira.codes@gmail.com)
