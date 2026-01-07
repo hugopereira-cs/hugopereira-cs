@@ -12,10 +12,11 @@
   
 ## 📊 Estatísticas do GitHub
 
-<a href="https://github.com/hugopereira-cs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugopereira-cs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopereira-cs&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugopereira-cs&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugopereira-cs&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugopereira-cs&theme=tokyonight&utcOffset=-3"/>
+</div>
 
 </div>
 
