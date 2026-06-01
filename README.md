@@ -1,4 +1,4 @@
-## 👋 Olá, seja muito bem vindo!
+## 👋 Olá, Seja Muito Bem Vindo!
 
 - 🧑🏻‍💻 Sou Hugo Pereira
 - 💻 Desenvolvedor em formação com foco em Front-end, cursando Ciência da Computação
