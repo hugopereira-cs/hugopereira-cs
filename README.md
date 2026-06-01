@@ -1,10 +1,10 @@
-## 👋 Olá
+## 👋 Olá, seja muito bem vindo!
 
-- 🧑🏻‍💻 Eu sou Hugo Pereira
+- 🧑🏻‍💻 Sou Hugo Pereira
 - 💻 Desenvolvedor em formação com foco em Front-end, cursando Ciência da Computação
 - 🌱 Atualmente estudando React.js
 - 📫 Conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/hugopereiradev/)
-- 💬 Fique à vontade para falar comigo sobre tecnologia, desenvolvimento e minha jornada como dev brasileiro
+- 💬 Fique à vontade para falar comigo sobre tecnologia, desenvolvimento e minha jornada como dev
 
 ---
 
