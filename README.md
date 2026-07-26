@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 Sou Hugo Pereira
 - 💻 Desenvolvedor em formação com foco em Front-end, cursando Ciência da Computação
-- 🌱 Atualmente estudando React.js
+- 🌱 Atualmente estudando o ecossitema JavaScript
 - 📫 Conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/hugopereiradev/)
 - 💬 Fique à vontade para falar comigo sobre tecnologia, desenvolvimento e minha jornada como dev
 
