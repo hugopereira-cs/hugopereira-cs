@@ -15,7 +15,7 @@
 
 <div align="left">
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugopereira-cs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/hugopereira-cs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugopereira-cs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/hugopereira-cs)
 
 </div>
 
