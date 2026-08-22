@@ -8,19 +8,6 @@
 
 ---
 
-<div>
-  
-## 📊 Estatísticas do GitHub
-
-
-<div align="left">
-
-[![Top Langs](./stats/top-langs.svg)](https://github.com/hugopereira-cs)
-
-</div>
-
----
-
 ## 🛠️ Linguagens e Tecnologias
 
 <div>
