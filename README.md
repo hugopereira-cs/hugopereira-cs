@@ -1,6 +1,12 @@
-## Hugo Pereira
+## 💻 Hugo Pereira
 
-**`💻 Desenvolvedor Full-Stack`**
+<div align="center">
+  <img height="350em" src="./.github/assets/banner.png"  style="border: 2px solid #ffffff; border-radius: 8px;"/>
+</div>
+
+---
+
+## 🧑🏻‍🦲 Sobre Mim
 
 Olá 👋🏻, sou Hugo Pereira, tenho 34 anos e sou do interior do estado do Rio de Janeiro. Atualmente, estou em transição de carreira para a área de tecnologia.
 
